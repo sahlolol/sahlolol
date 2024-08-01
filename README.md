@@ -1,9 +1,9 @@
 
 # Oi!!
 
-##   - 🎮 Técnico Programador de Jogos Digitais;
+##   - 🎮 Cursando Técnico Programador de Jogos Digitais;
 
-## 👨🏼‍💻 Old Village Game Studio:
+
 
 [![Itchi.io](https://img.shields.io/badge/Itch.io-FA5C5C?style=for-the-badge&logo=itchdotio&logoColor=white)](https://sahlol.itch.io/)
 
